@@ -2,7 +2,7 @@
 	"author": "guberni",
 	"name": "tellki-postgres-performance-monitor",
 	"description": "Tellki PostgreSQL performance monitor",
-	"version": "0.0.6",
+	"version": "0.0.7",
 	"keywords": ["tellki","monitor","postgresql","performance","real time"],
 	"homepage": "www.tellki.com",
 	"repository" : { 
